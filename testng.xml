@@ -6,7 +6,7 @@
 </listeners>
  <test thread-count="6" name="Test">
     <classes>
-    <class name="Script.TestYatra"/>
+    <class name="Script.TestFabHotels"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

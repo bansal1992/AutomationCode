@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="56363" started-at="2019-08-09T07:25:21Z" finished-at="2019-08-09T07:26:18Z">
+  <suite name="Suite" duration-ms="24270" started-at="2019-08-20T06:19:34Z" finished-at="2019-08-20T06:19:58Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="56363" started-at="2019-08-09T07:25:21Z" finished-at="2019-08-09T07:26:18Z">
-      <class name="Script.TestYatra">
-        <test-method status="PASS" signature="openApplication()[pri:0, instance:Script.TestYatra@380fb434]" name="openApplication" is-config="true" duration-ms="12045" started-at="2019-08-09T12:55:21Z" finished-at="2019-08-09T12:55:33Z">
+    <test name="Test" duration-ms="24270" started-at="2019-08-20T06:19:34Z" finished-at="2019-08-20T06:19:58Z">
+      <class name="Script.TestFabHotels">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:Script.TestFabHotels@380fb434]" name="openApplication" is-config="true" duration-ms="13071" started-at="2019-08-20T11:49:34Z" finished-at="2019-08-20T11:49:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApplication -->
-        <test-method status="PASS" signature="testYatra()[pri:0, instance:Script.TestYatra@380fb434]" name="testYatra" duration-ms="43886" started-at="2019-08-09T12:55:33Z" finished-at="2019-08-09T12:56:17Z">
+        <test-method status="PASS" signature="testFabHotels()[pri:0, instance:Script.TestFabHotels@380fb434]" name="testFabHotels" duration-ms="10882" started-at="2019-08-20T11:49:47Z" finished-at="2019-08-20T11:49:58Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testYatra -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Script.TestYatra@380fb434]" name="afterMethod" is-config="true" duration-ms="422" started-at="2019-08-09T12:56:17Z" finished-at="2019-08-09T12:56:18Z">
+        </test-method> <!-- testFabHotels -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Script.TestFabHotels@380fb434]" name="afterMethod" is-config="true" duration-ms="308" started-at="2019-08-20T11:49:58Z" finished-at="2019-08-20T11:49:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- Script.TestYatra -->
+      </class> <!-- Script.TestFabHotels -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

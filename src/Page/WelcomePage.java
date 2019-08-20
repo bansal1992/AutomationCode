@@ -68,7 +68,7 @@ public class WelcomePage {
 		long starttime = System.currentTimeMillis();
 		try {
 		WebDriverWait wait = new WebDriverWait(BaseTest.driver,time);
-				wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"BE_flight_flsearch_btn\"]")));
+				wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='listingPageBtn']")));
 				long endtime = System.currentTimeMillis();
 				long finaltime=endtime-starttime;
 				System.out.println("Success: Home Page is taking "+finaltime+" ms to open");
